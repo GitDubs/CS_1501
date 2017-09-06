@@ -1,0 +1,16 @@
+FileName	Original Size	LZW	MyLZW -nothing	MyLZW -reset	MyLZW -monitor	7Zip
+assig2		85kb		73kb	40kb		40kb		40kb		21kb
+code		71kb		31kb	24kb		24kb		24kb		14kb
+code2		57kb		24kb	21kb		21kb		21kb		13kb
+edit		231kb		245kb	153kb		149kb		153kb		97kb
+frosty		124kb		174kb	160kb		168kb		160kb		124kb
+gone_fishing	17kb		10kb	9kb		9kb		9kb		8kb
+large		1193kb		591kb	491kb		516kb		491kb		393kb
+Lego-big	92kb		126kb	120kb		120kb		120kb		91kb
+medium		25kb		13kb	13kb		13kb		13kb		11kb
+wacky		901kb		5kb	4kb		4kb		4kb		3kb
+winnt256	154kb		156kb	62kb		62kb		62kb		43kb
+bmps		1080kb		904kb	80kb		80kb		80kb		53kb
+all		2960kb		1804kb	1751kb		1151kb		1751kb		810kb
+texts		1350kb		989kb	584kb		577kb		584kb		427kb
+

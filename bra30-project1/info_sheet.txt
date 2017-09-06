@@ -1,0 +1,52 @@
+========================================
+CS/COE 1501 Assignment Information Sheet
+----------------------------------------
+
+Name:  Ben Aston
+
+Lecture section: MW 9:30 - 10:45  
+
+Recitation day and time:  Friday @ 3:00pm
+
+Assignment #:  1
+
+Program due date:  9 February 2017
+
+Handed in date:  11:22pm(last commit) 7 February 2017
+
+Source code file name(s): FindPasswords.java, DLB.java, Check.java,
+pw_check.java
+
+
+
+
+
+
+
+Other file name(s) (if relevant):
+ST_approach.txt
+
+
+
+
+
+
+Does your program run without error?:
+
+If not, what is/are the error(s) and which parts of your program run
+correctly?:
+The only issue that I didn't fix is that when asking to check for passwords with invalid characters the program sometimes throws a null pointer
+
+
+
+
+
+
+Additional comments to the grader:
+Have a nice day.
+
+
+
+
+
+
